@@ -1,0 +1,20 @@
+div {
+  display: inline-block;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
+
+.text {
+  display: inline-block;
+  vertical-align: middle;
+  width: auto;
+  color: black;
+}
+
+div p blockquote {
+  backgroung-color: lightgrey;
+  color: black;
+}

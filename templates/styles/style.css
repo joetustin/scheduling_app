@@ -1,0 +1,11 @@
+img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px;
+}
+.text {
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(100% - 100px);
+    color: "blue";
+}
